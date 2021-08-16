@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class NewTestTest {
   @Test
-  public void Login_Test() throws Exception
+  public void Login_Test2() throws Exception
   
   {
   }
